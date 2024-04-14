@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242619780504",
+    "project_id": "skyscape-2edbe",
+    "storage_bucket": "skyscape-2edbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242619780504:android:8f88970fb31855634eefed",
+        "android_client_info": {
+          "package_name": "com.example.skyscape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQduJngjxjwo6wfRR1u6Vyfe8X1t5G1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
