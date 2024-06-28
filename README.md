@@ -1,16 +1,12 @@
-# skyscape
+# Skyscape
 
-A new Flutter project.
+### An android application built with Flutter and Firebase to predict the quality of a sunset on any given day.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Command + Shift + P on VScode to select an android emulator
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. After booting, type in the terminal
+```
+flutter run
+```
